@@ -1,6 +1,6 @@
-package Principal;
+package principal;
 
-import Modelo.Sudoku;
+import modelo.Sudoku;
 
 public class Principal {
 

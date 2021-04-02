@@ -1,7 +1,8 @@
-package Controlador;
+package controlador;
 
 import java.awt.event.*;
-import Modelo.Sudoku;
+
+import modelo.Sudoku;
 
 public class Controlador implements ActionListener {
 
