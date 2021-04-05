@@ -2,6 +2,8 @@ package modelo;
 
 import java.util.Observable;
 
+import vista.VentanaJuego;
+
 
 public class Sudoku extends Observable {
 

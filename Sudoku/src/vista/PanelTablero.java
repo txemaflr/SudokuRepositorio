@@ -1,6 +1,9 @@
 package vista;
 
 import javax.swing.*;
+
+import modelo.Sudoku;
+
 import java.awt.*;
 
 public class PanelTablero {

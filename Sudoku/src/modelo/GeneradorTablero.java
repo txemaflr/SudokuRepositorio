@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class GeneradorTablero {
 
     private static GeneradorTablero miGeneradorTablero = null;
-    private String ruta = "src\\Sudoku\\sudoku.txt"; //Ruta al archivo .txt que contiene los sudokus
+    private String ruta = "src\\sudoku.txt"; //Ruta al archivo .txt que contiene los sudokus
     private Scanner lectorIniciales;
     private Scanner lectorCorrectas;
     private File fichero;

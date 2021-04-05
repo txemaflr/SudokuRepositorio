@@ -1,6 +1,10 @@
 package vista;
 
 import javax.swing.*;
+
+import controlador.Controlador;
+import modelo.Sudoku;
+
 import java.awt.*;
 import java.util.Observable;
 import java.util.Observer;
